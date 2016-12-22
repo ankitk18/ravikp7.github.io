@@ -1,0 +1,15 @@
+body,html{height: 100%;overflow-x: hidden;max-width: 100%;position: relative;}
+#front  {padding-top:50px;min-height:100%; background-color: #08F791;}
+#about {padding-top:40px;min-height:100%; background-color: #FC8427; position: relative;}
+#tech {padding-top:40px;min-height:100%; background-color: #3EBBF5; }
+#projects { padding-top:35px;min-height:100%; background-color: #FF1E95; color:white;}
+#blog { padding-top:40px;min-height: 100%; background-color:#9336FC; color:white;}
+#contact { padding-top:40px;min-height: 100%; background-color:#6E6FF7; color:white;}
+h1{ font: "Helvetica Neue"; font-weight: lighter; color:white; text-align: center; font-weight: bold;}
+h2{text-align: center;}
+h3{text-align:center;}
+h5{font-weight: lighter; color:white;}
+hr{border-color:#3F495E;}
+.fa {padding-right: 5px; color:white; font-size: 50px;}
+
+
