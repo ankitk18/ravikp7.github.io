@@ -1,16 +1,16 @@
-
-#front  {padding-top:150px;min-height:100%; background-color: #08F791;}
-#about {padding-top:40px;min-height:100%; background-color: #FC8427; }
-#tech {padding-top:40px;min-height:100%; background-color: #3EBBF5; }
-#projects { padding-top:40px;min-height:100%; background-color: #FF1E95; color:white;}
-#blog { padding-top:40px;min-height: 100%; background-color:#9336FC; color:white;}
-#contact { padding-top:40px;min-height: 85%; background-color:#6E6FF7; color:white;}
-#test { min-height: 15%; background-color:#6E6FF7; color:white;}
-hero{ font: "Helvetica Neue"; font-weight: lighter; color:white; text-align: center; font-size: 40px;}
-h1{ font: "Helvetica Neue"; font-weight: lighter; color:white; text-align: center;}
+#body{background-color: #b1f9d4;}
+#front  {padding-top:150px;min-height:100%; background-color:#16A085 ; color: white;}
+#about {padding-top:50px;min-height:100%; background-color: #1ABC9C;}
+#tech {padding-top:50px;min-height:100%; background-color: #1ABC9C; }
+#projects { padding-top:50px;min-height:100%; background-color: #1ABC9C; color:#2C3E50;}
+#blog { padding-top:50px;min-height: 100%; background-color:#1ABC9C; color:#2C3E50;}
+#contact { padding-top:50px;min-height: 85%; background-color:#16A085; color:#2C3E50;}
+#test { min-height: 15%; background-color:#2C3E50; color:white;}
+hero{ font: "Helvetica Neue"; font-weight: lighter; color:#2C3E50; text-align: center; font-size: 40px;}
+h1{ font: "Helvetica Neue"; font-weight: lighter; color:white; text-align: center; font-size: 50px;}
 h2{text-align: center;}
 h3{text-align:center;}
-h5{font-weight: lighter; color:white;}
+h5{font-weight: lighter; color:#2C3E50;}
 hr{border-color:#3F495E;}
 .fa {padding-right: 5px; color:white; font-size: 40px;}
 
