@@ -1,10 +1,10 @@
-#body{background-color: #b1f9d4;}
-#front  {padding-top:150px;min-height:100%; background-color:#16A085 ; color: white;}
-#about {padding-top:50px;min-height:100%; background-color: #1ABC9C;}
-#tech {padding-top:50px;min-height:100%; background-color: #1ABC9C; }
-#projects { padding-top:50px;min-height:100%; background-color: #1ABC9C; color:#2C3E50;}
-#blog { padding-top:50px;min-height: 100%; background-color:#1ABC9C; color:#2C3E50;}
-#contact { padding-top:50px;min-height: 84%; background-color:#16A085; color:#2C3E50;}
+
+#front  {padding-top:150px;min-height:100%; background-color:#16A085 ; color: white; opacity: 0.8; }
+#about {padding-top:50px;min-height:100%; background-color: #1ABC9C;opacity: 0.6;}
+#tech {padding-top:50px;min-height:100%; background-color: #1ABC9C; opacity: 0.5;}
+#projects { padding-top:50px;min-height:100%; background-color: #1ABC9C; color:#2C3E50;opacity: 0.6;}
+#blog { padding-top:50px;min-height: 100%; background-color:#1ABC9C; color:#2C3E50;opacity: 0.5;}
+#contact { padding-top:50px;min-height: 84%; background-color:#16A085; color:#2C3E50;opacity: 0.6;}
 #test { min-height: 16%; background-color:#2C3E50; color:white;}
 hero{ font-family: "Roboto"; font-weight: lighter; color:white; text-align: center; font-size: 40px;}
 h1{ font-family: "Roboto"; font-weight: lighter; color:white; text-align: center; font-size: 50px;}
