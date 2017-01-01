@@ -12,7 +12,7 @@ hero1{ font-family: "Roboto"; font-weight: normal; color:white; text-align: cent
 h2{text-align: center;}
 h3{text-align:center;}
 h5{font-weight: lighter; color:#2C3E50;}
-hr{border-color:#3F495E;}
+hr{border-color:#2C3E50;}
 .fa {padding-right: 5px; color:white; }
 .gd{position: relative; transform: translateY(50%);}
 .img-responsive{
