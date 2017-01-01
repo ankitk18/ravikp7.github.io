@@ -1,5 +1,5 @@
-#front1{min-height: 40%; background-color:#16A085 ; color: white; opacity: 0.8;}
-#front  {padding-top:150px;min-height:60%; background-color:#16A085 ; color: white; opacity: 0.8; }
+#front1{padding-bottom: 20px; min-height: 40%; background-color:#16A085 ; color: white; opacity: 0.8;}
+#front  {padding-top:120px;min-height:60%; background-color:#16A085 ; color: white; opacity: 0.8; }
 #about {padding-top:50px;min-height:100%; background-color: #1ABC9C;opacity: 0.6;}
 #tech {padding-top:50px;min-height:100%; background-color: #1ABC9C; opacity: 0.5;}
 #projects { padding-top:50px;min-height:100%; background-color: #1ABC9C; color:#2C3E50;opacity: 0.6;}
